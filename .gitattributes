@@ -1,0 +1,4 @@
+logs/** filter=lfs diff=lfs merge=lfs -text
+models/** filter=lfs diff=lfs merge=lfs -text
+results/** filter=lfs diff=lfs merge=lfs -text
+scripts/data/** filter=lfs diff=lfs merge=lfs -text

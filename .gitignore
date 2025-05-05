@@ -1,0 +1,1 @@
+# ignore raw dataset, models, logs  echo data/  echo models/  echo logs/
